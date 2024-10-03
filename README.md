@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis Project
 
 ## Overview
-This project focuses on analyzing COVID-19 data related to deaths and vaccinations from **January 5, 2020, to September 4, 2024**. The original dataset was sourced from **Our World in Data** and has been split into two separate Excel files for easier access:
+This project focuses on analyzing COVID-19 data related to deaths and vaccinations from **January 5, 2020, to August 4, 2024**. The original dataset was sourced from **Our World in Data** and has been split into two separate Excel files for easier access:
 
 - **CovidDeaths**: Contains information about COVID-19 related deaths worldwide.
 - **CovidVaccinations**: Includes details about vaccination counts across various locations.
