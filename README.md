@@ -37,6 +37,9 @@ The datasets used for this analysis are available on my [Kaggle](https://www.kag
 ## Methodology
 The analysis utilizes two primary datasets: **CovidDeaths** and **CovidVaccinations**. Data manipulation and exploration are performed using SQL to extract meaningful insights from the raw data.
 
+## Tools Used
+- SQL queries were written and executed using **Microsoft SQL Server Management Studio (SSMS)**.
+
 ## Key Analysis Areas
 
 ### Total Cases vs Total Deaths
@@ -64,7 +67,6 @@ The analysis utilizes two primary datasets: **CovidDeaths** and **CovidVaccinati
 
 ### Software and Tools
 - **SQL Server**: To run SQL queries and perform data manipulation.
-- **Excel**: To open and view the datasets.
 - **Kaggle Account**: To access the datasets.
 
 ## How to Use
