@@ -12,7 +12,7 @@ The datasets used for this analysis are available on my [Kaggle](https://www.kag
 ## Datasets
 
 ### 1. CovidDeaths
-- **File Name**: `CovidDeaths.xlsx`
+- **File Name**: `CovidDeaths.CSV`
 - **Description**: This dataset contains the number of deaths attributed to COVID-19 across various countries and regions. Key columns include:
   - `Location`: The name of the country or region.
   - `Date`: The date when the data was recorded.
@@ -21,7 +21,7 @@ The datasets used for this analysis are available on my [Kaggle](https://www.kag
   - `Population`: The population of the respective location.
 
 ### 2. CovidVaccinations
-- **File Name**: `CovidVaccinations.xlsx`
+- **File Name**: `CovidVaccinations.CSV`
 - **Description**: This dataset contains information on vaccination counts. Key columns include:
   - `Location`: The name of the country or region.
   - `Date`: The date when the data was recorded.
